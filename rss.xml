@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+    <title> RSS</title>
+    <link></link>
+    <description>Contenido que vas a ofrecer a los usuarios</description>
+    <item>
+      <title>Título de la primera entrada</title>
+      <link></link>
+      <description>Contenido que vas a ofrecer a los usuarios</description>
+    </item>
+  </channel>
+</rss>
